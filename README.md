@@ -10,7 +10,7 @@ Android & Flutter Developer
 
 * 🌍  I'm based in Bahawalpur,Pakistan
  
-* ✉️  You can contact me at [Mail](xskhubab@gmail.com)
+* ✉️  You can contact me at [xskhubab@gmail.com]
 * 🚀  I'm currently working on Ecomerance Application in flutter
 * 🧠  I'm learning Database Management
 * 🤝  I'm open to collaborating on Flutter Development
