@@ -11,7 +11,7 @@ Android & Flutter Developer
 * 🌍  I'm based in Bahawalpur,Pakistan
  
 * ✉️  You can contact me at [Mail](xskhubab@gmail.com)
-* 🚀  I'm currently working on [E-commerce site]([https://codeax1avek.github.io/E-commerce](https://www.linkedin.com/in/khubaib-abbasi-79284123a/))
+* 🚀  I'm currently working on Ecomerance Application in flutter
 * 🧠  I'm learning Database Management
 * 🤝  I'm open to collaborating on Flutter Development
 * ⚡  working on youtube video
